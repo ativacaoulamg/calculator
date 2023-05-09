@@ -14,3 +14,4 @@ git push -u origin main
 git remote add origin https://github.com/ativacaoulamg/calculator.git
 git branch -M main
 git push -u origin main
+.
