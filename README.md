@@ -4,9 +4,7 @@
 
 ![](https://github.com/ativacaoulamg/calculator/blob/main/calculator.png)
 
-# Calculadora JavaScript
-
-[![Hcode Treinamentos](https://www.hcode.com.br/res/img/hcode-200x100.png)](https://www.openbsd.org)
+[![Guilherme - Openbsd](https://www.hcode.com.br/res/img/hcode-200x100.png)](https://www.openbsd.org)
 
 
 ### Projeto
