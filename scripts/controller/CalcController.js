@@ -1,5 +1,5 @@
+
 class CalcController {
-    
     constructor(){
         this._operation = [];
         this._locale = 'pt-BR';
@@ -181,3 +181,4 @@ class CalcController {
         this._currentDate = value;
     }
 }
+//atualizado
